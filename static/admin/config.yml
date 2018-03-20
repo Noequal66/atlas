@@ -1,6 +1,6 @@
 abackend:
   name: github
-  repo: Noequal66/atlas
+  repo: noequal66/atlas
   branch: master
   
 media_folder: "static/uploads"
